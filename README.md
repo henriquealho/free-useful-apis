@@ -1,4 +1,4 @@
-# opensource-apis
+# free-useful-apis
 List of free useful API's
 
 # Index
