@@ -9,16 +9,24 @@ List of free useful API's
 * [Weather API](#weather-api)
 
 ### Programming Quotes API
-https://programming-quotes-api.herokuapp.com/
+https://programming-quotes-api.herokuapp.com/ *(offline)*
 
 ### The Movie Database API
+Millions of movies, TV shows and people to discover. Explore now.
+
 https://developers.themoviedb.org/3/
 
 ### Open Weather API
+Weather forecasts, nowcasts and history in a fast and elegant way
+
 https://openweathermap.org/api
 
 ### Odds API
+Sports betting API covering odds from bookmakers around the world
+
 https://the-odds-api.com
 
 ### Weather API
+JSON and XML Weather API and Geolocation Developer API
+
 https://www.weatherapi.com
