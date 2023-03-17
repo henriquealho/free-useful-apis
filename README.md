@@ -6,7 +6,7 @@ List of free useful API's
 * [The Movie Database API](#the-movie-database-api)
 * [Open Weather API](#open-weather-api)
 * [Odds API](#odds-api)
-* [Weather API](#wheather-api)
+* [Weather API](#weather-api)
 
 ### Programming Quotes API
 https://programming-quotes-api.herokuapp.com/
