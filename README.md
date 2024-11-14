@@ -6,6 +6,7 @@ List of free useful API's
 * [The Movie Database API](#the-movie-database-api)
 * [Open Weather API](#open-weather-api)
 * [Odds API](#odds-api)
+* [IDDB: Video Game Database API](#igdb-video-game-database-api)
 * [Weather API](#weather-api)
 
 ### Programming Quotes API
@@ -25,6 +26,11 @@ https://openweathermap.org/api
 Sports betting API covering odds from bookmakers around the world
 
 https://the-odds-api.com
+
+### IDDB: Video Game Database API
+Instant access to the world's most comprehensive video game database
+
+https://www.igdb.com/api
 
 ### Weather API
 JSON and XML Weather API and Geolocation Developer API
