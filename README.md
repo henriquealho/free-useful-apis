@@ -27,7 +27,7 @@ Sports betting API covering odds from bookmakers around the world
 
 https://the-odds-api.com
 
-### IDDB Video Game Database API
+### IGDB: Video Game Database API
 Instant access to the world's most comprehensive video game database
 
 https://www.igdb.com/api
